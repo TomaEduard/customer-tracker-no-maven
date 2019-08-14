@@ -26,7 +26,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Spring-Hibernate-for-Beginners-by-Chad-Darby-on-Udemy-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/luv2code" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -41,6 +41,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IT\JAVA\@ eclipse Workspace\customer-tracker\src\com\luv2code" />
+      <recent name="C:\IT\JAVA\@ eclipse Workspace\customer-tracker\WebContent" />
+      <recent name="C:\IT\JAVA\@ eclipse Workspace\customer-tracker\WebContent\WEB-INF" />
       <recent name="C:\IT\JAVA\@ eclipse Workspace\web-customer-tracker\WebContent\WEB-INF\lib" />
     </key>
   </component>
@@ -164,10 +167,34 @@
       <workItem from="1565567903357" duration="1007000" />
       <workItem from="1565569249953" duration="1007000" />
       <workItem from="1565571338364" duration="734000" />
+      <workItem from="1565758055998" duration="463000" />
     </task>
+    <task id="LOCAL-00001" summary="git">
+      <created>1565758131115</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565758131115</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git" />
+    <option name="LAST_COMMIT_MESSAGE" value="git" />
   </component>
 </project>
